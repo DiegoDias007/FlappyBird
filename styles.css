@@ -1,0 +1,12 @@
+.game {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.game canvas {
+  width: 900px;
+  height: 900px;
+  background-color: #9dbef5;
+}
